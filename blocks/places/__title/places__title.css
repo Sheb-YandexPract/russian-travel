@@ -1,0 +1,6 @@
+.places__title {
+    grid-area: title;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}

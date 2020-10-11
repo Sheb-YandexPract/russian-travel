@@ -1,0 +1,4 @@
+.places__image {
+    grid-area: pict;
+    max-width: 100%;
+}

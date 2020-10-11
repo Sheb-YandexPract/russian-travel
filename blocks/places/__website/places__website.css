@@ -1,0 +1,6 @@
+.places__website {
+    grid-area:  url-item;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
