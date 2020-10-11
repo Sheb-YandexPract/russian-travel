@@ -6,3 +6,11 @@
     justify-content: start;
     row-gap: 24px;
 }
+
+@media screen and (max-width: 400px){
+    .places__paragraph-container {
+        grid-area: small-context;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

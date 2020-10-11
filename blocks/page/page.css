@@ -2,18 +2,13 @@
     max-width: 1280px;
     margin: 0 auto;
     background-color: #2A2C2F;
-    padding: 28px 48px 24px 48px;
-    box-sizing: border-box;
+    padding-top: 28px;
+    padding-bottom: 24px;
+
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 450px){
     .page {
-        padding: 28px 24px 24px 24px;
-    }
-}
-
-@media screen and (max-width: 500px){
-    .page {
-        padding: 16px 16px 24px 16px;
+        padding-top: 14px;
     }
 }
